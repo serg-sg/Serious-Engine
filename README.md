@@ -45,7 +45,7 @@ Once you've installed Visual Studio and (optionally) DirectX8 SDK, you can build
 Type this in your terminal:
 
 ```
-git clone https://github.com/rcgordon/Serious-Engine.git
+git clone https://github.com/ptitSeb/Serious-Engine.git
 cd Serious-Engine
 ```
 
