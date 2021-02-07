@@ -192,7 +192,7 @@ void DoComparison(value &vRes, value &v0, value &v1, int token)
 /* BISON Declarations */
 
 // we need to be reentrant!
-%pure_parser
+%define api.pure
 
 %union {
   value val;                  // for constants and expressions
